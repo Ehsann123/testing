@@ -1,0 +1,14 @@
+C:\Users\ehsan\OneDrive\Desktop\CICDTestProject\CICDTestApp\bin\Debug\net9.0\CICDTestApp.exe
+C:\Users\ehsan\OneDrive\Desktop\CICDTestProject\CICDTestApp\bin\Debug\net9.0\CICDTestApp.deps.json
+C:\Users\ehsan\OneDrive\Desktop\CICDTestProject\CICDTestApp\bin\Debug\net9.0\CICDTestApp.runtimeconfig.json
+C:\Users\ehsan\OneDrive\Desktop\CICDTestProject\CICDTestApp\bin\Debug\net9.0\CICDTestApp.dll
+C:\Users\ehsan\OneDrive\Desktop\CICDTestProject\CICDTestApp\bin\Debug\net9.0\CICDTestApp.pdb
+C:\Users\ehsan\OneDrive\Desktop\CICDTestProject\CICDTestApp\obj\Debug\net9.0\CICDTestApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ehsan\OneDrive\Desktop\CICDTestProject\CICDTestApp\obj\Debug\net9.0\CICDTestApp.AssemblyInfoInputs.cache
+C:\Users\ehsan\OneDrive\Desktop\CICDTestProject\CICDTestApp\obj\Debug\net9.0\CICDTestApp.AssemblyInfo.cs
+C:\Users\ehsan\OneDrive\Desktop\CICDTestProject\CICDTestApp\obj\Debug\net9.0\CICDTestApp.csproj.CoreCompileInputs.cache
+C:\Users\ehsan\OneDrive\Desktop\CICDTestProject\CICDTestApp\obj\Debug\net9.0\CICDTestApp.dll
+C:\Users\ehsan\OneDrive\Desktop\CICDTestProject\CICDTestApp\obj\Debug\net9.0\refint\CICDTestApp.dll
+C:\Users\ehsan\OneDrive\Desktop\CICDTestProject\CICDTestApp\obj\Debug\net9.0\CICDTestApp.pdb
+C:\Users\ehsan\OneDrive\Desktop\CICDTestProject\CICDTestApp\obj\Debug\net9.0\CICDTestApp.genruntimeconfig.cache
+C:\Users\ehsan\OneDrive\Desktop\CICDTestProject\CICDTestApp\obj\Debug\net9.0\ref\CICDTestApp.dll
